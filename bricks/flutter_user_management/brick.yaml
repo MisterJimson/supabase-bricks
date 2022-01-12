@@ -1,0 +1,8 @@
+name: flutter_user_management
+description: Supabase Flutter User Management Starter
+vars:
+  - name
+  - supabase_url
+  - supabase_anon_public_key
+  - flutter_package_name
+  - organization_name
